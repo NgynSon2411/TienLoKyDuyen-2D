@@ -4,7 +4,7 @@ Bản Unity/C# của bãi luyện công thử nghiệm V2. Dự án dùng các s
 
 ## Chạy trong Unity
 
-1. Cài Unity Editor 6000.0.23f1 bằng Unity Hub.
+1. Cài Unity Editor 6000.6.10f1 bằng Unity Hub.
 2. Trong Unity Hub, chọn **Add → Add project from disk**, rồi chọn thư mục gốc của kho mã.
 3. Mở scene **Assets/Scenes/Training.unity** và nhấn **Play**. Giao diện được dựng khi scene chạy.
 4. Để xuất bản chạy thử, mở **File → Build Profiles**, chọn nền tảng đã cài mô-đun và build scene **Training**.
